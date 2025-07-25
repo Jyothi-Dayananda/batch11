@@ -5,7 +5,7 @@ sources:
       schema: raw_schema
       tables:
         - name: raw_customerdata
-        - name: stg_payments
+        - name: customers1
         - name: raw_order
         - name: STG_ITEMS_DATA
         - name: STG_PRODUCT_DATA
