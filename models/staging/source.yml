@@ -5,6 +5,7 @@ sources:
       schema: raw_schema
       tables:
         - name: raw_customerdata
+        - name: emp_sal
         - name: customers1
         - name: raw_order
           columns:
